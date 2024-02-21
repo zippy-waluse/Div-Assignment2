@@ -1,0 +1,9 @@
+#container{
+    border: dotted 2px;
+}
+#incontainer{
+    border: solid 4px;
+    width: 60%;
+    padding: 20px;
+    margin: 5%;
+}
